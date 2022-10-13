@@ -1,0 +1,30 @@
+body{
+    width:fit-content;
+    position:absolute;
+    background-color: wheat;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+    justify-content: center;
+}
+p{
+
+    font-size: 20px;
+}
+a{
+    text-decoration: blue;
+    
+}
+a:hover {
+    text-decoration: firebrick;
+    text-decoration: underline;
+}
+footer{
+    margin-top:2rem ;
+    margin-bottom: 2rem;
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    text-decoration: underline;
+}
